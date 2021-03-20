@@ -1,0 +1,4 @@
+{
+     "workId": 99,
+ 	 "expected": "No [class nal.example.sonnpt.nalservice.entity.Work entity with id 99 exists!]"
+}

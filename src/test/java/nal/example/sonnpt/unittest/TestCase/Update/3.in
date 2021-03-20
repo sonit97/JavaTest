@@ -1,0 +1,8 @@
+{
+     "workId": "g",
+ 	 "workName": "Work Case 3",
+     "startingDate": "2020-04-03 00:00:00.0",
+     "endingDate": "2020-04-07 00:00:00.0",
+     "status": 1,
+ 	 "expected": "For input string: \"g\""
+}
